@@ -49,9 +49,6 @@ prompt=[
     and also remember that all feature/column name are in lower case only.
 
     """
-
-
-
 ]
 
 
